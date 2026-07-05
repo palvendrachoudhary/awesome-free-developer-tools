@@ -50,6 +50,7 @@ Tools to make your day-to-day coding easier.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** - Free fake API for testing and prototyping.
 - **[Carbon](https://carbon.now.sh/)** - Create and share beautiful images of your source code.
 - **[Ngrok](https://ngrok.com/)** - Expose local servers behind NATs and firewalls to the public internet over secure tunnels.
+- **[Hash Generator](https://devbox.tools/utils/md5-sha1-sha256-hash-generator)** - Free browser-based tool to generate MD5, SHA1, SHA256, SHA512, SHA3 and RIPEMD hashes from text.
 
 ## 🔌 Free APIs
 APIs you can use in your practice projects.
