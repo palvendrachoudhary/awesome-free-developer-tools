@@ -1,69 +1,100 @@
-# 🚀 Awesome Free Developer Tools
+# dev tools that don't suck
 
-A curated list of incredibly useful, free tools and resources for developers and designers. 
+Tools I actually use. No sponsored stuff, no "top 100 tools you've never heard of" clickbait.
 
-> If you find this repository useful, please consider giving it a **⭐ Star**! It helps others discover these resources.
-
-## 📑 Contents
-- [☁️ Hosting & Cloud](#-hosting--cloud)
-- [🎨 Design & UI](#-design--ui)
-- [🤖 AI Tools](#-ai-tools)
-- [🛠️ Developer Utilities](#-developer-utilities)
-- [🔌 Free APIs](#-free-apis)
+Fork it, add your own, open a PR.
 
 ---
 
-## ☁️ Hosting & Cloud
-Places to host your web apps, databases, and APIs for free.
+## editors & IDEs
 
-- **[Vercel](https://vercel.com/)** - Best for Next.js, React, and frontend frameworks. Includes free SSL and CI/CD.
-- **[Netlify](https://www.netlify.com/)** - Excellent for static sites and Jamstack apps.
-- **[Render](https://render.com/)** - Great alternative to Heroku for Node.js, Python, and Go apps.
-- **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with a generous free tier for PostgreSQL databases and auth.
-- **[Firebase](https://firebase.google.com/)** - Google's platform, generous free tier for hosting, auth, and NoSQL databases.
-- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - 512MB free MongoDB cloud database.
-
-## 🎨 Design & UI
-Resources to make your projects look beautiful.
-
-- **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework for rapid UI development.
-- **[Figma](https://www.figma.com/)** - The industry standard for UI/UX design. Free for individuals.
-- **[Heroicons](https://heroicons.com/)** - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
-- **[FontAwesome](https://fontawesome.com/)** - The web's most popular icon set and toolkit.
-- **[Coolors](https://coolors.co/)** - Super fast color palettes generator.
-- **[Unsplash](https://unsplash.com/)** - Beautiful, free images and photos that you can download and use for any project.
-
-## 🤖 AI Tools
-Free or generous free tier AI tools to supercharge your workflow.
-
-- **[ChatGPT](https://chat.openai.com/)** - OpenAI's powerful conversational AI model.
-- **[Claude](https://claude.ai/)** - Anthropic's AI, excellent at coding and reading large documents.
-- **[Google AI Studio](https://aistudio.google.com/)** - Get API keys for Google's Gemini models with a very generous free tier.
-- **[Hugging Face](https://huggingface.co/)** - The GitHub of machine learning. Host models, datasets, and apps for free.
-
-## 🛠️ Developer Utilities
-Tools to make your day-to-day coding easier.
-
-- **[Postman](https://www.postman.com/)** - An API platform for building and using APIs.
-- **[Insomnia](https://insomnia.rest/)** - An open-source desktop application that takes the pain out of interacting with REST APIs.
-- **[Regex101](https://regex101.com/)** - Regular expression tester with syntax highlighting, explanation, and cheat sheet.
-- **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** - Free fake API for testing and prototyping.
-- **[Carbon](https://carbon.now.sh/)** - Create and share beautiful images of your source code.
-- **[Ngrok](https://ngrok.com/)** - Expose local servers behind NATs and firewalls to the public internet over secure tunnels.
-
-## 🔌 Free APIs
-APIs you can use in your practice projects.
-
-- **[PokéAPI](https://pokeapi.co/)** - All the Pokémon data you'll ever need in one place.
-- **[The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)** - Powerful API for movies, TV shows, and actors.
-- **[OpenWeatherMap API](https://openweathermap.org/api)** - Free weather data for any location.
-- **[Dog API](https://dog.ceo/dog-api/)** - The internet's biggest collection of open source dog pictures.
+| Tool | Notes |
+|------|-------|
+| [VS Code](https://code.visualstudio.com) | The obvious one |
+| [Cursor](https://cursor.sh) | VS Code with AI built in |
+| [Zed](https://zed.dev) | Blazing fast, good for big projects |
+| [WebStorm](https://jetbrains.com/webstorm) | JetBrains, free for students |
+| [Android Studio](https://developer.android.com/studio) | Android dev |
 
 ---
 
-### 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/palvendrachoudhary/awesome-free-developer-tools/issues).
+## terminals
 
-### 📝 License
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+| Tool | Notes |
+|------|-------|
+| [Warp](https://warp.dev) | Modern terminal, has AI assist |
+| [Windows Terminal](https://github.com/microsoft/terminal) | Good if you're on Windows |
+| [iTerm2](https://iterm2.com) | Mac only, solid |
+
+---
+
+## API testing
+
+| Tool | Notes |
+|------|-------|
+| [Postman](https://postman.com) | The standard |
+| [Insomnia](https://insomnia.rest) | Cleaner UI than Postman |
+| [Hoppscotch](https://hoppscotch.io) | Open source, browser based |
+| [Thunder Client](https://www.thunderclient.com) | VS Code extension, lightweight |
+
+---
+
+## git & version control
+
+| Tool | Notes |
+|------|-------|
+| [Sourcetree](https://sourcetreeapp.com) | Git GUI, free |
+| [GitKraken](https://gitkraken.com) | Better UI, free for public repos |
+| [GitHub Desktop](https://desktop.github.com) | Simple, works fine |
+| [lazygit](https://github.com/jesseduffield/lazygit) | Terminal UI for git |
+
+---
+
+## databases
+
+| Tool | Notes |
+|------|-------|
+| [TablePlus](https://tableplus.com) | Good DB GUI, free tier is enough |
+| [DBeaver](https://dbeaver.io) | Free, supports everything |
+| [Beekeeper Studio](https://beekeeperstudio.io) | Open source DB manager |
+
+---
+
+## productivity & misc
+
+| Tool | Notes |
+|------|-------|
+| [Excalidraw](https://excalidraw.com) | Whiteboard for planning |
+| [Regex101](https://regex101.com) | Regex tester, saves me every time |
+| [JSON Crack](https://jsoncrack.com) | JSON visualizer |
+| [Ray.so](https://ray.so) | Beautiful code screenshots |
+| [Carbon](https://carbon.now.sh) | Code screenshots for sharing |
+| [ngrok](https://ngrok.com) | Localhost tunneling |
+| [readme.so](https://readme.so) | README editor |
+
+---
+
+## browser extensions
+
+| Extension | What it does |
+|-----------|-------------|
+| [Wappalyzer](https://wappalyzer.com) | See what tech a site uses |
+| [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter) | Pretty print JSON in browser |
+| [React DevTools](https://chromewebstore.google.com/detail/react-developer-tools) | React debugging |
+| [daily.dev](https://daily.dev) | Dev news new tab |
+
+---
+
+## CI/CD
+
+| Tool | Notes |
+|------|-------|
+| [GitHub Actions](https://github.com/features/actions) | Built in, free for public repos |
+| [Vercel](https://vercel.com) | Auto deploy from GitHub |
+| [Netlify](https://netlify.com) | Same deal |
+
+---
+
+contributing: add a tool with a one-liner about why you use it. PRs open.
+
+made by [palvendra](https://github.com/palvendrachoudhary)
