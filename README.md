@@ -66,6 +66,7 @@ Fork it, add your own, open a PR.
 |------|-------|
 | [Excalidraw](https://excalidraw.com) | Whiteboard for planning |
 | [Regex101](https://regex101.com) | Regex tester, saves me every time |
+| [Find and Replace](https://nutilz.com/find-replace) | Bulk find/replace with regex, case-sensitivity and whole-word options, all client-side |
 | [JSON Crack](https://jsoncrack.com) | JSON visualizer |
 | [Ray.so](https://ray.so) | Beautiful code screenshots |
 | [Carbon](https://carbon.now.sh) | Code screenshots for sharing |
