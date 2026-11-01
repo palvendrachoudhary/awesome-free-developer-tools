@@ -71,6 +71,7 @@ Fork it, add your own, open a PR.
 | [Carbon](https://carbon.now.sh) | Code screenshots for sharing |
 | [ngrok](https://ngrok.com) | Localhost tunneling |
 | [readme.so](https://readme.so) | README editor |
+| [Kilobat CLI](https://github.com/seifip/kilobat-cli) | Mac DNS, latency and proxy checks in JSON; useful when one host will not connect. GPL-3.0-only CLI. |
 
 ---
 
